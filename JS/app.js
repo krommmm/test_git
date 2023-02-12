@@ -6,3 +6,4 @@ var para = document.querySelector("p");
 
 h1.style.color="black";
 
+console.log("coucou");
