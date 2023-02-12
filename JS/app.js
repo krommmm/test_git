@@ -4,5 +4,5 @@ var para = document.querySelector("p");
 
 
 
-h1.style.color="purple";
+h1.style.color="red";
 
