@@ -4,6 +4,5 @@ var para = document.querySelector("p");
 
 
 
-h1.style.color="green";
+h1.style.color="yellow";
 
-console.log("coucou");
